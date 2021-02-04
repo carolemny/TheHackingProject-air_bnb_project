@@ -1,24 +1,5 @@
-# README
+>> Le Air BnB des Toutous <<
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cette plateforme permet aux Dogsitters de promener les chiens des autres en fonction de leur lieu de vie. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+** Un bon moyen de travailler les tables de base de données de relation N/N **
